@@ -11,7 +11,9 @@ Welcome to GDB Online.
 int main()
 {
     int sayi1;
+    
     int sayi2;
+    
 
     using namespace std; // using bildirimi ekleyerek std ad alanını kullanabilirsiniz
 
